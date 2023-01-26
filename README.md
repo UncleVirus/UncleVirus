@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @UncleVirus
+- 👋 Hi, I’m @Juma_Grivin
 - 👀 I’m interested in Software Engineering, Ethical Hacking and Blockchain 
 - 🌱 I’m currently learning CCNA Security and Software Development 
 - 💞️ I’m looking to collaborate on various projects involving software development and penetration testing 
