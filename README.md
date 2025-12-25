@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @Juma_Grivin
-- 👀 I’m interested in Software Engineering, Ethical Hacking and Blockchain 
-- 🌱 I’m currently learning CCNA Security and Software Development 
-- 💞️ I’m looking to collaborate on various projects involving software development and penetration testing 
-- 📫 How to reach me : muyakajestmore@gmail.com
+Hi, I’m @Juma_Grivin
+
+I’m focused on Data Engineering, Business Intelligence, and Automation
+I’m currently sharpening skills in Python, SQL, cloud data platforms (Azure/AWS/BigQuery), ETL pipelines, and analytics engineering
+I’m open to collaborating on data pipelines, BI dashboards, automation workflows, and analytics-driven products
+
+📫 How to reach me: grivinjuma@gmail.com
 
 <!---
 UncleVirus/UncleVirus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
